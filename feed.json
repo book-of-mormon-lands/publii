@@ -26,16 +26,15 @@
         {
             "id": "https://book-of-mormon-lands.github.io/publii/testing.html",
             "url": "https://book-of-mormon-lands.github.io/publii/testing.html",
-            "title": "testing",
-            "summary": "this is where I add stuff",
-            "content_html": "this is where I add stuff",
+            "title": "List of Book of Mormon Locations",
+            "content_html": "<iframe width=\"699\" height=\"900\" frameborder=\"0\" scrolling=\"no\" src=\"https://onedrive.live.com/embed?resid=B4B8622B7FA544DB%2143439&amp;authkey=%21AHXi8IVZtUjU1gw&amp;em=2&amp;Item='A-Z%20Sort'!B1%3AD176&amp;wdHideGridlines=True&amp;wdDownloadButton=True&amp;wdInConfigurator=True\"></iframe>",
             "author": {
                 "name": "Robert Roylance"
             },
             "tags": [
             ],
             "date_published": "2019-07-23T14:26:46-06:00",
-            "date_modified": "2019-07-23T14:26:46-06:00"
+            "date_modified": "2019-07-23T16:10:56-06:00"
         }
     ]
 }

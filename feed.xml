@@ -3,7 +3,7 @@
     <title>Book of Mormon Lands</title>
     <link href="https://book-of-mormon-lands.github.io/publii/feed.xml" rel="self" />
     <link href="https://book-of-mormon-lands.github.io/publii" />
-    <updated>2019-07-23T15:52:04-06:00</updated>
+    <updated>2019-07-23T16:14:02-06:00</updated>
     <author>
         <name>Robert Roylance</name>
     </author>
@@ -34,22 +34,18 @@
         </content>
     </entry>
     <entry>
-        <title>testing</title>
+        <title>List of Book of Mormon Locations</title>
         <author>
             <name>Robert Roylance</name>
         </author>
         <link href="https://book-of-mormon-lands.github.io/publii/testing.html"/>
         <id>https://book-of-mormon-lands.github.io/publii/testing.html</id>
 
-        <updated>2019-07-23T14:26:46-06:00</updated>
-            <summary>
-                <![CDATA[
-                    this is where I add stuff
-                ]]>
-            </summary>
+        <updated>2019-07-23T16:10:56-06:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                this is where I add stuff
+                <iframe width="699" height="900" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=B4B8622B7FA544DB%2143439&amp;authkey=%21AHXi8IVZtUjU1gw&amp;em=2&amp;Item='A-Z%20Sort'!B1%3AD176&amp;wdHideGridlines=True&amp;wdDownloadButton=True&amp;wdInConfigurator=True"></iframe>
             ]]>
         </content>
     </entry>

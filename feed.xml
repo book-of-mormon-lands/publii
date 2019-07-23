@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Book of Mormon Lands</title>
+    <link href="https://bookofmormonlands.net/feed.xml" rel="self" />
+    <link href="https://bookofmormonlands.net" />
+    <updated>2019-07-23T15:20:13-06:00</updated>
+    <author>
+        <name>Robert Roylance</name>
+    </author>
+    <id>https://bookofmormonlands.net</id>
+
+    <entry>
+        <title>testing</title>
+        <author>
+            <name>Robert Roylance</name>
+        </author>
+        <link href="https://bookofmormonlands.net/testing.html"/>
+        <id>https://bookofmormonlands.net/testing.html</id>
+
+        <updated>2019-07-23T14:26:46-06:00</updated>
+            <summary>
+                <![CDATA[
+                    this is where I add stuff
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                this is where I add stuff
+            ]]>
+        </content>
+    </entry>
+</feed>

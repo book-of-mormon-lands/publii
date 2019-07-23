@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Book of Mormon Lands",
     "description": "",
-    "home_page_url": "https://bookofmormonlands.net",
-    "feed_url": "https://bookofmormonlands.net/feed.json",
+    "home_page_url": "https://book-of-mormon-lands.github.io/publii",
+    "feed_url": "https://book-of-mormon-lands.github.io/publii/feed.json",
     "user_comment": "",
     "author": {
         "name": "Robert Roylance"
     },
     "items": [
         {
-            "id": "https://bookofmormonlands.net/testing.html",
-            "url": "https://bookofmormonlands.net/testing.html",
+            "id": "https://book-of-mormon-lands.github.io/publii/testing.html",
+            "url": "https://book-of-mormon-lands.github.io/publii/testing.html",
             "title": "testing",
             "summary": "this is where I add stuff",
             "content_html": "this is where I add stuff",

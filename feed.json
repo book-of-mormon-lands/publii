@@ -5,36 +5,9 @@
     "home_page_url": "https://book-of-mormon-lands.github.io/publii",
     "feed_url": "https://book-of-mormon-lands.github.io/publii/feed.json",
     "user_comment": "",
-    "icon": "https://book-of-mormon-lands.github.io/publii/media/website/bookmormonlands1.5-438x43.png",
     "author": {
-        "name": "Robert Roylance"
+        "name": "Russell Anderson"
     },
     "items": [
-        {
-            "id": "https://book-of-mormon-lands.github.io/publii/gallery.html",
-            "url": "https://book-of-mormon-lands.github.io/publii/gallery.html",
-            "title": "Gallery",
-            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/ceibal-img-3612-4-187x166.jpg\" ><img src=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/ceibal-img-3612-4-187x166-thumbnail.jpg\" alt=\"\" width=\"187\" height=\"166\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/ceibal-smaller-800x600.jpeg\" ><img src=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/ceibal-smaller-800x600-thumbnail.jpeg\" alt=\"\" width=\"696\" height=\"533\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/earliestsettle1-973x324.jpg\" ><img src=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/earliestsettle1-973x324-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"256\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/landofbountiful-smaller-800x600.jpeg\" ><img src=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/landofbountiful-smaller-800x600-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/landofnephi-smaller-800x600.jpeg\" ><img src=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/landofnephi-smaller-800x600-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"582\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/liahona-tiny-71x91.jpg\" ><img src=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/liahona-tiny-71x91-thumbnail.jpg\" alt=\"\" width=\"71\" height=\"91\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/uaxactun-city-smaller-685x403.jpeg\" ><img src=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/uaxactun-city-smaller-685x403-thumbnail.jpeg\" alt=\"\" width=\"682\" height=\"399\"></a></figure>\n</div>",
-            "author": {
-                "name": "Robert Roylance"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-07-23T15:30:46-06:00",
-            "date_modified": "2019-07-23T15:30:46-06:00"
-        },
-        {
-            "id": "https://book-of-mormon-lands.github.io/publii/testing.html",
-            "url": "https://book-of-mormon-lands.github.io/publii/testing.html",
-            "title": "List of Book of Mormon Locations",
-            "content_html": "<iframe width=\"699\" height=\"900\" frameborder=\"0\" scrolling=\"no\" src=\"https://onedrive.live.com/embed?resid=B4B8622B7FA544DB%2143439&amp;authkey=%21AHXi8IVZtUjU1gw&amp;em=2&amp;Item='A-Z%20Sort'!B1%3AD176&amp;wdHideGridlines=True&amp;wdDownloadButton=True&amp;wdInConfigurator=True\"></iframe>",
-            "author": {
-                "name": "Robert Roylance"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-07-23T14:26:46-06:00",
-            "date_modified": "2019-07-23T16:10:56-06:00"
-        }
     ]
 }

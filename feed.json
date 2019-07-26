@@ -11,17 +11,72 @@
     },
     "items": [
         {
+            "id": "https://book-of-mormon-lands.github.io/publii/great-nation.html",
+            "url": "https://book-of-mormon-lands.github.io/publii/great-nation.html",
+            "title": "Great Nation",
+            "content_html": "<iframe width=\"800\" height=\"900\" src=\"https://onedrive.live.com/embed?cid=6DBE2CD07F91ADBA&amp;resid=6DBE2CD07F91ADBA%213511&amp;authkey=ACdB1z2UnjUAHzo&amp;em=2\" frameborder=\"0\" scrolling=\"no\"></iframe>",
+            "author": {
+                "name": "Robert Roylance"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-07-26T12:44:53-06:00",
+            "date_modified": "2019-07-26T13:18:32-06:00"
+        },
+        {
+            "id": "https://book-of-mormon-lands.github.io/publii/touring-helps.html",
+            "url": "https://book-of-mormon-lands.github.io/publii/touring-helps.html",
+            "title": "Touring Helps",
+            "summary": "Touring Helps Folder",
+            "content_html": "<a href=\"https://1drv.ms/u/s!ArqtkX_QLL5tlVSi2smN2da1QApk?e=TE5WFX\">Touring Helps Folder</a>",
+            "author": {
+                "name": "Robert Roylance"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-07-26T12:41:46-06:00",
+            "date_modified": "2019-07-26T12:41:46-06:00"
+        },
+        {
+            "id": "https://book-of-mormon-lands.github.io/publii/technical-articles.html",
+            "url": "https://book-of-mormon-lands.github.io/publii/technical-articles.html",
+            "title": "Technical Articles",
+            "summary": "List of all technical articles Folder with all technical articles ",
+            "content_html": "<p><a href=\"https://1drv.ms/u/s!AttEpX8rYri0gttpCKsTJaATDNPlig?e=eJ3mEd\">List of all technical articles</a></p>\n<p><a href=\"https://1drv.ms/u/s!ArqtkX_QLL5tgj3Hup9rEv-97n-T?e=z6VqrD\">Folder with all technical articles</a></p>\n<p> </p>",
+            "author": {
+                "name": "Robert Roylance"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-07-26T12:38:42-06:00",
+            "date_modified": "2019-07-26T13:17:06-06:00"
+        },
+        {
+            "id": "https://book-of-mormon-lands.github.io/publii/the-land-of-bountiful.html",
+            "url": "https://book-of-mormon-lands.github.io/publii/the-land-of-bountiful.html",
+            "title": "The Land of Bountiful",
+            "summary": "This is an embedded Microsoft Office document, powered by Office Online.",
+            "content_html": "<iframe width=\"600px\" height=\"900px\" src=\"https://onedrive.live.com/embed?cid=6DBE2CD07F91ADBA&amp;resid=6DBE2CD07F91ADBA%212778&amp;authkey=AFo2JArkOxSxpnU&amp;em=2&amp;wdStartOn=1\" frameborder=\"0\">This is an embedded <a target=\"_blank\" href=\"https://office.com\">Microsoft Office</a> document, powered by <a target=\"_blank\" href=\"https://office.com/webapps\">Office Online</a>.</iframe>",
+            "author": {
+                "name": "Robert Roylance"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-07-26T12:34:15-06:00",
+            "date_modified": "2019-07-26T12:34:15-06:00"
+        },
+        {
             "id": "https://book-of-mormon-lands.github.io/publii/gallery.html",
             "url": "https://book-of-mormon-lands.github.io/publii/gallery.html",
-            "title": "Gallery",
-            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/ceibal-img-3612-4-187x166.jpg\" ><img src=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/ceibal-img-3612-4-187x166-thumbnail.jpg\" alt=\"\" width=\"187\" height=\"166\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/ceibal-smaller-800x600.jpeg\" ><img src=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/ceibal-smaller-800x600-thumbnail.jpeg\" alt=\"\" width=\"696\" height=\"533\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/earliestsettle1-973x324.jpg\" ><img src=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/earliestsettle1-973x324-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"256\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/landofbountiful-smaller-800x600.jpeg\" ><img src=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/landofbountiful-smaller-800x600-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/landofnephi-smaller-800x600.jpeg\" ><img src=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/landofnephi-smaller-800x600-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"582\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/liahona-tiny-71x91.jpg\" ><img src=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/liahona-tiny-71x91-thumbnail.jpg\" alt=\"\" width=\"71\" height=\"91\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/uaxactun-city-smaller-685x403.jpeg\" ><img src=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/uaxactun-city-smaller-685x403-thumbnail.jpeg\" alt=\"\" width=\"682\" height=\"399\"></a></figure>\n</div>",
+            "title": " Book of Mormon Images",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/Book-of-Mormon-Wars.jpg\" ><img src=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/Book-of-Mormon-Wars-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/Ceibal-Timeline.png\" ><img src=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/Ceibal-Timeline-thumbnail.png\" alt=\"\" width=\"451\" height=\"256\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/Ceibal.png\" ><img src=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/Ceibal-thumbnail.png\" alt=\"\" width=\"768\" height=\"431\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/Cerros.jpg\" ><img src=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/Cerros-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"421\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/earliestsettle1.jpg\" ><img src=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/earliestsettle1-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"256\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/Hill-Riplah.png\" ><img src=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/Hill-Riplah-thumbnail.png\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/Land-Northward.jpg\" ><img src=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/Land-Northward-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"433\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/LandofNephi4high_cropped.jpg\" ><img src=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/LandofNephi4high_cropped-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"236\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/Liahona.jpg\" ><img src=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/Liahona-thumbnail.jpg\" alt=\"\" width=\"285\" height=\"364\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/Nephi.jpg\" ><img src=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/Nephi-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"430\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/PassionRiverModelSmall.jpg\" ><img src=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/PassionRiverModelSmall-thumbnail.jpg\" alt=\"\" width=\"355\" height=\"397\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/Sidon-River.png\" ><img src=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/Sidon-River-thumbnail.png\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/temple-from-word-doc.png\" ><img src=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/temple-from-word-doc-thumbnail.png\" alt=\"\" width=\"518\" height=\"371\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/Wars.JPG\" ><img src=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/Wars-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"454\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/Yaxha.jpg\" ><img src=\"https://book-of-mormon-lands.github.io/publii/media/posts/2/gallery/Yaxha-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"321\"></a></figure>\n</div>",
             "author": {
                 "name": "Robert Roylance"
             },
             "tags": [
             ],
             "date_published": "2019-07-23T15:30:46-06:00",
-            "date_modified": "2019-07-23T15:30:46-06:00"
+            "date_modified": "2019-07-26T13:10:35-06:00"
         },
         {
             "id": "https://book-of-mormon-lands.github.io/publii/testing.html",
